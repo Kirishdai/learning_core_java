@@ -1,1 +1,1 @@
-# fullstack-java-journey
+# learning_core_java
