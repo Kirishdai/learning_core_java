@@ -1,3 +1,6 @@
+// TemperatureConverter.java
+// Demonstrates variables, user input, and conditionals
+
 import java.util.Scanner;  // Import Scanner class for user input
 
 public class TemperatureConverter {
