@@ -1,3 +1,6 @@
+// NumberGuessingGame.java
+// Demonstrates while loops, Random class, and user-controlled loop exit
+
 import java.util.Random; // Import for random number generation
 import java.util.Scanner; // Import for reading user input
 
