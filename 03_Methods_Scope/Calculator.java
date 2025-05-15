@@ -1,3 +1,6 @@
+// Calculator.java
+// Demonstrates methods, parameter passing, return values, and enhanced switch expression
+
 import java.util.Scanner;  // Import Scanner for user input
 
 public class Calculator {
