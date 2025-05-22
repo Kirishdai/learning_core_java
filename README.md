@@ -59,7 +59,7 @@ I'm building this as part of a focused 4-month sprint to become internship-ready
 
 ##  What’s Next
 
-- `07_MiniProjects` (Quiz game, Hangman, Dice roller, etc.)
+- `08_MiniProjects` (Quiz game, Hangman, Dice roller, etc.)
 - JUnit and unit testing practice
 - Spring Boot REST APIs
 - Full-stack backend + frontend projects
