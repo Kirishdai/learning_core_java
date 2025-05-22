@@ -32,6 +32,15 @@ This repository contains my hands-on Java practice as part of my journey to beco
 - `CustomExceptionDemo.java`: Shows how to create and throw a custom exception class.
 - `FileWriteReadDemo.java`: Writes to and reads from a file using `FileWriter` and `Scanner`.
 
+### `07_AdvancedTopics`
+- `AnonymousClassDemo.java`: Shows how to use anonymous inner classes for inline behavior.
+- `GenericsDemo.java`: Demonstrates a generic class with multiple type parameters.
+- `HashmapDemo.java`: Key-value operations including insertion, lookup, and iteration.
+- `TimerTaskDemo.java`: Uses `Timer` and `TimerTask` to schedule a repeated task with a countdown.
+- `ThreadingDemo.java` & `MyRunnable.java`: Demonstrates use of a daemon thread with a countdown timer that exits the program if input is not received in time.
+- `EnumsDemo.java` & `Day.java`: Use enums with enhanced switch-case logic and associated values.
+- `MultithreadingDemo.java` & `MyRunnable2.java`: Demonstrates concurrent thread execution using multiple threads and synchronization with `join()`.
+
 ---
 
 ##  Tools Used
