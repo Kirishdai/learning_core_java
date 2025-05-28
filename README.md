@@ -54,12 +54,3 @@ This repository contains my hands-on Java practice as part of my journey to beco
 ##  Why This Repo Exists
 
 I'm building this as part of a focused 4-month sprint to become internship-ready with senior-level Java development skills. Each file is intentional — no filler, no fluff — just fundamentals done right, with structure, readability, and purpose.
-
----
-
-##  What’s Next
-
-- `08_MiniProjects` (Quiz game, Hangman, Dice roller, etc.)
-- JUnit and unit testing practice
-- Spring Boot REST APIs
-- Full-stack backend + frontend projects
